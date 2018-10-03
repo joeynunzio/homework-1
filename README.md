@@ -88,17 +88,17 @@ Please edit this file to add your answers to the following questions.
 #### 5. In the following URL: `https://www.nsnsp.org/commitments?date=2017-12-09`
 
 * What is the scheme/protocol? https
-* What is the host?nsnsp.org
-* What is the port number?443
-* What is the path?/commitments
+* What is the host?  nsnsp.org
+* What is the port number?  443
+* What is the path?  /commitments
 * What are the query parameters? date=2017-12-09
 * What is the fragment? (no #)
 
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
+* What is the scheme/protocol?  http
+* What is the host?  localhost
+* What is the port number? 80
 * What is the path?
 * What are the query parameters?
 * What is the fragment?
@@ -124,11 +124,11 @@ Please edit this file to add your answers to the following questions.
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS?
+What does the S stand for in HTTPS? Secured
 
 Why is HTTPS better than HTTP?
 
-Should all web pages use HTTPS?
+Should all web pages use HTTPS?  YES
 
 
 ## Webpages
