@@ -98,8 +98,8 @@ Please edit this file to add your answers to the following questions.
 
 * What is the scheme/protocol?  http
 * What is the host?  localhost
-* What is the port number? 80
-* What is the path?
+* What is the port number? 4000
+* What is the path?admin
 * What are the query parameters? (no ?)
 * What is the fragment?  (no #)
 
