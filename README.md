@@ -100,33 +100,33 @@ Please edit this file to add your answers to the following questions.
 * What is the host?  localhost
 * What is the port number? 80
 * What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What are the query parameters? (no ?)
+* What is the fragment?  (no #)
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
+* What is the scheme/protocol?  http
+* What is the host?  lehman.edu
+* What is the port number?  80
 * What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What are the query parameters?  (no ?)
+* What is the fragment?  (no #)
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
 * What is the scheme/protocol?
 * What is the host?
-* What is the port number?
+* What is the port number?  443
 * What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What are the query parameters?  (no ?)
+* What is the fragment?  Glyph_variants
 
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS? Secured
+What does the S stand for in HTTPS? Secure
 
-Why is HTTPS better than HTTP?
+Why is HTTPS better than HTTP? HTTPS is more secure. It adds a layer of encryption between the website and the browser.
 
 Should all web pages use HTTPS?  YES
 
