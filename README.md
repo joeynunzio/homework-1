@@ -56,7 +56,7 @@ You should now see your name above (instead of "Your Name"). You can also see yo
 
 Please sign up for LinkedIn and share your LinkedIn profile URL here. If you do not wish to be a member of LinkedIn, please write "I decline.":
 
-[My LinkedIn Profile](https://www.linkedin.com/in/.../)
+[My LinkedIn Profile](linkedin.com/in/joseph-siciliano-02531052/)
 
 
 ### 5. Setup GitHub Pages
@@ -99,8 +99,8 @@ Please edit this file to add your answers to the following questions.
 * What is the scheme/protocol?  http
 * What is the host?  localhost
 * What is the port number? 4000
-* What is the path?admin
-* What are the query parameters? (no ?)
+* What is the path?  admin
+* What are the query parameters? While there is a question mark, nothing is after it, so there is no query.
 * What is the fragment?  (no #)
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
@@ -108,16 +108,16 @@ Please edit this file to add your answers to the following questions.
 * What is the scheme/protocol?  http
 * What is the host?  lehman.edu
 * What is the port number?  80
-* What is the path?
+* What is the path?  academics/mathematics-computer-science/index
 * What are the query parameters?  (no ?)
 * What is the fragment?  (no #)
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
-* What is the scheme/protocol?
-* What is the host?
+* What is the scheme/protocol?  https
+* What is the host?  en.wikipedia
 * What is the port number?  443
-* What is the path?
+* What is the path?  wiki/Greek_alphabet
 * What are the query parameters?  (no ?)
 * What is the fragment?  Glyph_variants
 
@@ -256,7 +256,7 @@ Please modify the [bugs.html](bugs.html) file in this repository to fix the erro
 
 ### 28. Pace check
 
-Class is going… too slow / just right / too fast.
+Class is going… somewhere between just right, and too fast.
 
 
 ### 29. Jobs
