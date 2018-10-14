@@ -56,7 +56,7 @@ You should now see your name above (instead of "Your Name"). You can also see yo
 
 Please sign up for LinkedIn and share your LinkedIn profile URL here. If you do not wish to be a member of LinkedIn, please write "I decline.":
 
-[My LinkedIn Profile](linkedin.com/in/joseph-siciliano-02531052/)
+[Joseph Siciliano](https://www.linkedin.com/in/joseph-siciliano-02531052/)
 
 
 ### 5. Setup GitHub Pages
