@@ -188,43 +188,74 @@ What is one tool that can tell you if you have written valid HTML?  https://vali
 
 What does "Accessibility" mean in the context of web development?  Accessibility is the word used to describe whether a product can be used by people of all abilities and disabilities. For instance, a website is accessible if all people, including disabled and elderly people, can use it.
 
-What types of people does accessibility concern?
+What types of people does accessibility concern? Disabled and/or elderly people
 
-What is one tool you can use to verify the accessibility of your websites?
+What is one tool you can use to verify the accessibility of your websites? I acutally found a site that lists 25 tools: 
+https://dynomapper.com/blog/27-accessibility-testing/246-top-25-awesome-accessibility-testing-tools-for-websites
 
 
 ### 19. head / body
 
-What is the `<head>` tag for?
+What is the `<head>` tag for? The head tag is a cantainter for head elements, such as title, meta, links to CSS, etc.
 
-What is the `<body>` tag for?
+What is the `<body>` tag for?  Contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc.
 
 
 ### 20. Head…
 
-What's the difference between `<head>`, `<header>`, and heading tags?
+What's the difference between `<head>`, `<header>`, and heading tags? The head tag contains all head elements like the title, meta, links to CSS, styles, etc.
+The header tag is for introductory content or a set of navigational links. such as a logo. It also contains heading tags such as h1-h6.
+The headings tag or the <h1> to <h6> tags are used to define HTML headings.
+
+<h1> defines the most important heading. <h6> defines the least important heading.
 
 
 ### 21. Tables
 
-What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
+What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? the 
+<table> tag defines a table
+<tr> tag defines a row
+<th> defines a table cell as a header
+<td> defines a table cell
+<tbody> 
+<tfoot>
+<thead>
+
+
 
 
 ### 22. Non-closing tags
 
-Which tags don't have a closing pair (e.g. `<br>`)?
+Which tags don't have a closing pair (e.g. `<br>`)? here is a complete list of self-closing tags
+<area />
+<base />
+<br />
+<col />
+<command />
+<embed />
+<hr />
+<img />
+<input />
+<keygen />
+<link />
+<menuitem />
+<meta />
+<param />
+<source />
+<track />
+<wbr />
 
 
 ### 23. Links
 
-How do you make a link open in a new window?
+How do you make a link open in a new window?  adding target="_dlank" 
 
 
 ### 24. IFRAME
 
-What is an IFRAME?
+What is an IFRAME?  An HTML document embedded inside another HTML document on a website.
 
-What are IFRAMEs commonly used for?
+What are IFRAMEs commonly used for? So you can access one site within another.
 
 
 ## Writing Code
@@ -255,11 +286,18 @@ Please modify the [bugs.html](bugs.html) file in this repository to fix the erro
 
 ### 28. Pace check
 
-Class is going… somewhere between just right, and too fast.
+Class is going… somewhere between just right, and too fast.  Sometimes too fast, other times just right. It's never going to slow.
 
 
 ### 29. Jobs
 
-Add a link to one web development job based in NYC:
+Add a link to one web development job based in NYC:https://www.indeed.com/viewjob?jk=ccc369593de71ed9&q=front+end+developer&l=New+York%2C+NY&tk=1cpq3n8gf184d004&from=web&vjs=3
 
-What do you still need to learn to meet the requirements?
+What do you still need to learn to meet the requirements? Here are a list of requirements: 
+Javascript (vanilla, jQuery, JSON, Gulp, Grunt)
+HTML
+CSS/SASS/SCSS
+GIT/Version Control
+Ability to work confidently within terminal
+
+This is an entry level job, I didn't go looking for a 150k yearly job. Looking at the requirements, other than HTML, CSS (and whatever the other things after it are, I am ill prepared to work for these people.
