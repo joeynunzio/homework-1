@@ -155,7 +155,7 @@ What's one webpage you like? Why? Honestly, I don't like FaceBook. I know it's p
 
 ### 13. Resources
 
-Where is a good place to look for information about HTML tags? w3schools.com, Khan Academy, and for quick information: http://www.simplehtmlguide.com/cheatsheet.php 
+Where is a good place to look for information about HTML tags? w3schools.com, Khan Academy, and for quick information: http://www.simplehtmlguide.com/cheatsheet.php along with https://www.markdownguide.org/cheat-sheet/
 
 
 ### 14. HTML Versions
