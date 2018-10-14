@@ -140,23 +140,22 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 
 ### 10. What is a webpage?
-
-*Your answer here.*
+ A webpage is a document written in HTML and translated by your web browser so it could be read by those who view it.
 
 
 ### 11. Webpage I like
 
-What's one webpage you like? Why?
+What's one webpage you like? Why? I like LinkedIn because it allows me to customize what I see, and I find it a great job searching resource. Networking with others with similar careers is very important.
 
 
 ### 12. Website I don’t like
 
-What's one webpage you like? Why?
+What's one webpage you like? Why? Honestly, I don't like FaceBook. I know it's probably the most popular Social Media site, but I find it a terrible time waster.  
 
 
 ### 13. Resources
 
-Where is a good place to look for information about HTML tags?
+Where is a good place to look for information about HTML tags? w3schools.com, Khan Academy, and for quick information: http://www.simplehtmlguide.com/cheatsheet.php 
 
 
 ### 14. HTML Versions
