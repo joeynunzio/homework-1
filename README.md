@@ -150,43 +150,43 @@ What's one webpage you like? Why? I like LinkedIn because it allows me to custom
 
 ### 12. Website I don’t like
 
-What's one webpage you like? Why? Honestly, I don't like FaceBook. I know it's probably the most popular Social Media site, but I find it a terrible time waster.  
+What's one webpage you don't like? Why? Honestly, I don't like FaceBook. I know it's a popular Social Media site, but I find it a terrible time waster.  
 
 
 ### 13. Resources
 
-Where is a good place to look for information about HTML tags? w3schools.com, Khan Academy, and for quick information: http://www.simplehtmlguide.com/cheatsheet.php along with https://www.markdownguide.org/cheat-sheet/
+Where is a good place to look for information about HTML tags? https://www.w3schools.com/ is a great resource for learning about HTML tags, and for quick information: http://www.simplehtmlguide.com/cheatsheet.php along with https://www.markdownguide.org/cheat-sheet/
 
 
 ### 14. HTML Versions
 
-Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+Which version of HTML are we covering in this class? What is it's DOCTYPE tag? We have been covering HTML5 in class. It's DOCTYPE tag is <!DOCTYPE html>, which tells the browser that it is an HTML document.
 
-What is XML?
+What is XML? eXtensible Markup Language is a markup language that focuses on carrying data.
 
-What is XHTML?
+What is XHTML? XHTML is an XML-based HTML. It serves the same function as HTML, but with the same rules as XML documents. These rules deal with the structure of the markup. XML is a meta language.
 
 
 ### 15. HTML
 
-Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?
+Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program? Web pages are ASCII (plain text) files.
 
-Are HTML files interpreted or executed?
+Are HTML files interpreted or executed?  Interpreted, by a browser. 
 
 
 ### 16. Browser versioning
 
-Which versions of Microsoft Internet Explorer support the `<nav>` tag?
+Which versions of Microsoft Internet Explorer support the `<nav>` tag? IE9.
 
 
 ### 17. HTML Validity
 
-What is one tool that can tell you if you have written valid HTML?
+What is one tool that can tell you if you have written valid HTML?  https://validator.w3.org/
 
 
 ### 18. Accessibility
 
-What does "Accessibility" mean in the context of web development?
+What does "Accessibility" mean in the context of web development?  Accessibility is the word used to describe whether a product can be used by people of all abilities and disabilities. For instance, a website is accessible if all people, including disabled and elderly people, can use it.
 
 What types of people does accessibility concern?
 
